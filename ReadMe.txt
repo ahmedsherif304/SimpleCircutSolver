@@ -9,9 +9,3 @@ node zero),then number of all elements in circuit by given instructing in progra
 Note:There is not dependent Sources,no independent current Sources. 
 
 
-
-Team Members:
-1)Hossam Alaa
-2)Ahmed Sherif
-3)Ahmed Magdy
-4)Abdallah Zaher 
